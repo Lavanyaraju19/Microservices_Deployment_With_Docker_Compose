@@ -100,4 +100,4 @@ java-service/Dockerfile
      In this Project, we created a simple microservices application with one service in Python and another in Java. We used Docker Compose to manage and deploy both services. This setup 
      demonstrates how you can use Docker Compose to orchestrate multi-container applications, making it easier to develop, test, and deploy microservices.   
 ### Thank You
-### Kunal Pere
+### Lavanya
